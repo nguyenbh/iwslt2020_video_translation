@@ -4,13 +4,9 @@ Task website: http://iwslt.org/doku.php?id=video_speech_translation
 
 ## How to get data?
 
-Using git
-+ Requirement: git and git large file storage [[Installation](https://help.github.com/en/github/managing-large-files/installing-git-large-file-storage)]
++ Requirement: git and git LFS [[Installation](https://help.github.com/en/github/managing-large-files/installing-git-large-file-storage)]
 + Command: ```
 git clone https://github.com/nguyenbh/iwslt2020_video_translation.git```
-
-Simple tgz download
-+ Visit https://github.com/nguyenbh/iwslt2020_video_translation/releases to find the data version that you want to obtain
 
 ## Descriptions
 
