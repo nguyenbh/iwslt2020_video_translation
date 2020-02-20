@@ -1,0 +1,7 @@
+# Chinese ASR Baseline Model
+
+tdnn_1a_sp.tgz is the tar gzip file which contains the pretrained Kaldi Chinese ASR model.
+
+We follow the aishell recipe at https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell/s5
+ 
+To use the model you will need to install Kaldi toolkit.
