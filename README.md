@@ -19,5 +19,6 @@ clip_id\
     clip_id.short.dev.mp4: raw video file
     clip_id.short.dev.wav: raw wav file
     clip_id.short.dev.transcription_2ref.txt: manual Chinese transcription and 2 human English translations.
+    clip_id.cvte.out: output of the baseline kaldi CVTE Madanrin model 
     wav\: wav files contain manual transcription.
 ```
