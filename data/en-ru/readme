@@ -1,0 +1,12 @@
+We use the 300 hours subset of How2 dataset (Sanabria et al., 2018), which contains
+300 hours of videos, sentence-level time alignments to the ground-truth English subtitles.
+
+We provide the Russian translation on the val and test sets.
+
+How2 dataset Github:
+https://github.com/srvk/how2-dataset
+
+How2: A Large-scale Dataset for Multimodal Language Understanding
+Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, Desmond Elliott, Loïc Barrault, Lucia Specia, Florian Metze
+https://arxiv.org/abs/1811.00347
+
