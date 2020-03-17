@@ -10,3 +10,6 @@ How2: A Large-scale Dataset for Multimodal Language Understanding
 Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, Desmond Elliott, Loïc Barrault, Lucia Specia, Florian Metze
 https://arxiv.org/abs/1811.00347
 
++ val.en2ru, test.en2ru: can be used for model development and parameters tuning
++ heldout.en: the evaluation set released during the IWSLT-2020  
+
